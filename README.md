@@ -31,6 +31,7 @@ Apache Spark: For data processing with its master and worker nodes.
 Cassandra: Where the processed data will be stored.
 
 
+
 What You'll Learn
 Setting up a data pipeline with Apache Airflow
 
@@ -43,6 +44,8 @@ Data processing techniques with Apache Spark
 Data storage solutions with Cassandra and PostgreSQL
 
 Containerizing your entire data engineering setup with Docker
+
+
 
 
 Technologies
